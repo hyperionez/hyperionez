@@ -1,7 +1,6 @@
 <h1 data-importer="text" align="center">Hey  I'm Nicholas!</h1>
 
-# About Me:
-I’m currently working on zeNitH
+### I’m currently working on zeNitH
 
 
 # Socials:
