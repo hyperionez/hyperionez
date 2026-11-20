@@ -4,7 +4,7 @@
 I’m currently working on zeNitH
 
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicholasanthonygan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholas-anthony-74a574307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nicholasanthony0213@gmail.com) 
 
 # Tech:
@@ -19,4 +19,3 @@ I’m currently working on zeNitH
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hyperionez&icon=0&color=0)](https://visitcount.itsvg.in)
