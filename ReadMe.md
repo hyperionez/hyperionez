@@ -13,7 +13,7 @@ I’m currently working on zeNitH
 #  GitHub Stats:
 <div align="center">
   <img height="160" src="https://github-readme-stats.shion.dev/api?username=hyperionez&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=01e6d7&icon_color=01e6d7&ring_color=01e6d7&text_color=ffffff" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=hyperionez&hide_border=true&background=00000000&ring=01e6d7&fire=01e6d7&currStreakNum=b81617&sideNums=b81617&currStreakLabel=01e6d7&sideLabels=01e6d7&dates=8B949E&stroke=30363D" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=hyperionez&hide_border=true&background=00000000&ring=01e6d7&fire=01e6d7&currStreakNum=ff2400&sideNums=ff2400&currStreakLabel=01e6d7&sideLabels=01e6d7&dates=8B949E&stroke=30363D" />
   <br />
   <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyperionez&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=01e6d7&text_color=ffffff" />
 </div>
