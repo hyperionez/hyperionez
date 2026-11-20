@@ -12,10 +12,10 @@ I’m currently working on zeNitH
 
 #  GitHub Stats:
 <div align="center">
-  <img height="160" src="https://github-readme-stats.shion.dev/api?username=hyperionez&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&ring_color=58A6FF&text_color=01e6d7" />
-  <img height="160" src="https://streak-stats.demolab.com/?user=hyperionez&hide_border=true&background=00000000&ring=01e6d7&fire=01e6d7&currStreakNum=01e6d7&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=01e6d7&dates=8B949E&stroke=30363D" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=hyperionez&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=01e6d7&icon_color=01e6d7&ring_color=b81617&text_color=ffffff" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=hyperionez&hide_border=true&background=00000000&ring=01e6d7&fire=01e6d7&currStreakNum=b81617&sideNums=58A6FF&currStreakLabel=b81617&sideLabels=01e6d7&dates=8B949E&stroke=30363D" />
   <br />
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyperionez&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=01e6d7" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyperionez&include_all_commits=true&count_private=true&layout=compact&hide_border=true&bg_color=00000000&title_color=01e6d7&text_color=ffffff" />
 </div>
 
 ---
