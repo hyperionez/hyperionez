@@ -12,9 +12,10 @@ I’m currently working on zeNitH
 
 #  GitHub Stats:
 <div align="center">
-  <img height="120" src="https://github-readme-stats.shion.dev/api?username=hyperionez&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="120" src="https://streak-stats.demolab.com/?user=hyperionez&theme=dark&hide_border=false" />
-  <img height="120" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyperionez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=hyperionez&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=hyperionez&theme=dark&hide_border=false" />
+  <br />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyperionez&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
